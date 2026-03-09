@@ -18,4 +18,3 @@ Clone the repository and explore various examples.
 ## Future Plans
 - Additional tutorials on advanced topics
 - Integration with databases and other technologies
-
